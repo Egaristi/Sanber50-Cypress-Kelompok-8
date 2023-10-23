@@ -1,0 +1,14 @@
+{
+  "name": "sanber50-cypress-kelompok-8",
+  "version": "1.0.0",
+  "description": "tes modified",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.2"
+  }
+}
