@@ -1,0 +1,9 @@
+{
+    "validUser" : "irvanoxavierzky@gmail.com",
+    "invalidUser" : "irvannoxavier@gmail.com",
+    "validPassword" : "Aduh@duh11",
+    "invalidPassword" : "aduhaduh",
+    "welcomMsg" : "Welcome, Irvano Xavierzky!",
+    "errorMsg" : "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+    
+}
